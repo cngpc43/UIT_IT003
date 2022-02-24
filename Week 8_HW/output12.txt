@@ -1,0 +1,26 @@
+MENU
+t) Tao ra bang cuu chuong
+d) Thoat chuong trinh
+Moi ban lua chon: 
+Moi ban nhap 1 so: 
+Moi ban nhap 1 so tu 1 den 9: 
+Moi ban nhap 1 so tu 1 den 9: 
+BANG CUU CHUONG: 2
+  1  2  3  4  5  6  7  8  9 10
+  2  4  6  8 10 12 14 16 18 20
+MENU
+t) Tao ra bang cuu chuong
+d) Thoat chuong trinh
+Moi ban lua chon: 
+Moi ban nhap 1 so: 
+Moi ban nhap 1 so tu 1 den 9: 
+BANG CUU CHUONG: 4
+  1  2  3  4  5  6  7  8  9 10
+  2  4  6  8 10 12 14 16 18 20
+  3  6  9 12 15 18 21 24 27 30
+  4  8 12 16 20 24 28 32 36 40
+MENU
+t) Tao ra bang cuu chuong
+d) Thoat chuong trinh
+Moi ban lua chon: 
+Ban da chon thoat khoi chuong trinh. Cam on ban da su dung!
